@@ -8,8 +8,8 @@ use the LevelPlay PubMatic adapter together with Google's
 ## Usage
 
 Add this repository (`https://github.com/x3mads/xmediator-levelplay-pubmatic-swift-package.git`) and select the `LevelPlayPubMaticAdapter` product.
-Version `5.11.0` of this package corresponds to LevelPlay adapter
-`5.11.0` (<https://github.com/ironsource-mobile/LevelPlay-PubMatic-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
+Version `5.12.0` of this package corresponds to LevelPlay adapter
+`5.12.0` (<https://github.com/ironsource-mobile/LevelPlay-PubMatic-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
 PubMatic adapter package: both contain the same adapter binary.
 
 ## Why this package exists, and why it is built this way
